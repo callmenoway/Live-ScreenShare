@@ -5,7 +5,7 @@
   <img src="https://cdn.discordapp.com/attachments/894962833773711380/1190668263403835462/vecteezy_topographic-background-and-texture-abstraction-with-place_16828112.jpg?ex=65a2a33b&is=65902e3b&hm=be35ab9faa90c25f7d99956b86256d4799fcc3a78d3d05b2af02a33fb5cdf16e&">
 </p>
 
-![npm](./src/npm.svg) ![node](./src/node.svg) ![javascript](https://img.shields.io/badge/%20%20JavaScript-%20%20%20%20730L-f1e05a.svg) ![html](https://img.shields.io/badge/%20%20HTML-%20%20%20%20164L-e34c26.svg) ![repo](https://img.shields.io/github/repo-size/callmenoway/SilentScreenshare) ![license](https://img.shields.io/badge/License-MIT-important)
+![npm](./src/npm.svg) ![node](./src/node.svg) ![javascript](https://img.shields.io/badge/%20%20JavaScript-%20%20%20%20730L-f1e05a.svg) ![html](https://img.shields.io/badge/%20%20HTML-%20%20%20%20164L-e34c26.svg) ![repo](https://img.shields.io/github/repo-size/callmenoway/Live-ScreenShare) ![license](https://img.shields.io/badge/License-MIT-important)
 
 ## Live ScreenShare
 Live Screenshare is a tool that stream a specific window or the entire screen in a local webpage. All dimentions and resolutions are included for better experience.
