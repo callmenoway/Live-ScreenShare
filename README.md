@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/894962833773711380/1190668263403835462/vecteezy_topographic-background-and-texture-abstraction-with-place_16828112.jpg?ex=65a2a33b&is=65902e3b&hm=be35ab9faa90c25f7d99956b86256d4799fcc3a78d3d05b2af02a33fb5cdf16e&">
+  <img src="https://cdn.discordapp.com/attachments/894962833773711380/1190668263403835462/vecteezy_topographic-background-and-texture-abstraction-with-place_16828112.jpg?ex=662db97b&is=662c67fb&hm=f836fe2512c6eb9241d07eacca9ae03e970f7939fcf869f4b3a19723fb0f7a97&">
 </p>
 
 ![npm](./src/npm.svg) ![node](./src/node.svg) ![javascript](https://img.shields.io/badge/%20%20JavaScript-%20%20%20%20730L-f1e05a.svg) ![html](https://img.shields.io/badge/%20%20HTML-%20%20%20%20164L-e34c26.svg) ![repo](https://img.shields.io/github/repo-size/callmenoway/Live-ScreenShare) ![license](https://img.shields.io/badge/License-MIT-important)
@@ -43,8 +43,8 @@ npm i http express ws
 node server.js
 ```
 ## Photo
-![ScreenShare](https://cdn.discordapp.com/attachments/894962833773711380/1190669924620845097/image.png?ex=65a2a4c7&is=65902fc7&hm=b86ddd7e66f0620ee3a9abf8f25e71d947a733adf8e5876bbdb8b68f189aaff6&)
-![LiveStreaming](https://cdn.discordapp.com/attachments/894962833773711380/1190670061577453568/image.png?ex=65a2a4e8&is=65902fe8&hm=082ce4e8d42a7fbbb430a5eaec5cae1315d8d262feb9a9c389fb3feb31e60e9b&)
+![ScreenShare](https://media.discordapp.net/attachments/894962833773711380/1190670061577453568/image.png?ex=662dbb28&is=662c69a8&hm=72de3437e5c88e2e94e0d26d0f25f7f4332eac7ea2cdc6dac5abd3becc15cc26&=&format=webp&quality=lossless&width=1332&height=749)
+![LiveStreaming](https://cdn.discordapp.com/attachments/894962833773711380/1190669924620845097/image.png?ex=662dbb07&is=662c6987&hm=4f384c93f5970aeff560d15a5624ff9ff077428b1e3b2b8a2ed2475b50f37935&)
 
 ## Contributing
 
