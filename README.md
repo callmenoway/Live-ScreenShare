@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://ibb.co/fDkWkDD">
+  <img src="https://i.ibb.co/TW4G4WW/screenshare.jpg">
 </p>
 
 ![npm](./src/npm.svg) ![node](./src/node.svg) ![javascript](https://img.shields.io/badge/%20%20JavaScript-%20%20%20%20730L-f1e05a.svg) ![html](https://img.shields.io/badge/%20%20HTML-%20%20%20%20164L-e34c26.svg) ![repo](https://img.shields.io/github/repo-size/callmenoway/Live-ScreenShare) ![license](https://img.shields.io/badge/License-MIT-important)
