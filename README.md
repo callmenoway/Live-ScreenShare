@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/894962833773711380/1190668263403835462/vecteezy_topographic-background-and-texture-abstraction-with-place_16828112.jpg?ex=662db97b&is=662c67fb&hm=f836fe2512c6eb9241d07eacca9ae03e970f7939fcf869f4b3a19723fb0f7a97&">
+  <img src="https://ibb.co/fDkWkDD">
 </p>
 
 ![npm](./src/npm.svg) ![node](./src/node.svg) ![javascript](https://img.shields.io/badge/%20%20JavaScript-%20%20%20%20730L-f1e05a.svg) ![html](https://img.shields.io/badge/%20%20HTML-%20%20%20%20164L-e34c26.svg) ![repo](https://img.shields.io/github/repo-size/callmenoway/Live-ScreenShare) ![license](https://img.shields.io/badge/License-MIT-important)
